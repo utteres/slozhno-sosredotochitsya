@@ -81,7 +81,7 @@
   color: var(--text-title-color)
 }
 
-.info__content-title {
+.info__content-titles {
   width: 100%;
   font-size: 18px;
   font-weight: 400;
@@ -264,7 +264,7 @@
     width: 100%
   }
 
-  .info__content{
+  .info__content {
     display: flex;
     flex-direction: column;
     gap: 20px;
