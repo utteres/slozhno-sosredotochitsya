@@ -1,3 +1,3 @@
 # slozhno-sosredotochitsya
 Проект "Сложно сосредоточиться"
-https://github.com/utteres/slozhno-sosredotochitsya.git
+Выполнил https://github.com/utteres/slozhno-sosredotochitsya.git
