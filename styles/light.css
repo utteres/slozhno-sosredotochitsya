@@ -23,6 +23,7 @@
   background-image:url(/images/cover-image-light.png);
   background-position:center;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 @media (prefers-color-scheme: light) {
